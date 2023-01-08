@@ -1,0 +1,197 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+
+}
+
+.hero-header {
+    background-image: url('assets/images/banner/banner1.png');
+    height: 800px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+
+  }
+  
+  .hero-header-content {
+    width: 50%;
+      
+  }
+
+  .hero-header h1 {
+    
+  }
+
+  .hero-header p {
+    margin-right: 200px;
+    text-align: right;
+
+
+  }
+  
+  .hero-header h1 {
+    color: black;
+    font-size: 40px;
+    margin: 50px 200px;
+    text-align: right;
+  }
+
+  .btn-primary {
+
+    color: white;
+    padding: 10px;
+    background-color: #FD6E0A;
+    font-weight: 600;
+    font-size: 18px;
+    height: 39px;
+    border-radius: 5px;
+    border: none;
+    margin-left: 363px;
+    margin-top: 25px;
+
+
+}
+
+
+.previous-year {
+    display: flex;
+    align-items: center;
+    margin: 50px 200px;
+    
+} 
+
+#failure-description h1 {
+    margin-bottom: 20px;
+}
+
+#failure-description p {
+    margin-bottom: 10px;
+}
+
+#failure-description {
+    width: 416px;
+    height: 400px;
+    left: 862px;
+    top: 1178px;
+
+}
+
+.reasons {
+    /* display: flex; */
+
+}
+
+.reasons-item {
+    display: flex;
+    align-items: center;
+}
+
+.reasons-item p {
+    margin-top: 10px;
+    margin-left: 5px;
+}
+
+.my-plans {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin: 20px 200px;
+}
+
+
+.plan-heading {
+    margin-top: auto;
+    position: absolute;
+}
+
+.my-plans-container h1 {
+    text-align: center;
+    margin-top: 90px;
+}
+
+
+
+.myplans-child {
+    margin: 20px 35px;
+}
+
+.myplans-child h3 {
+    margin: 6px auto;
+}
+
+.myplans-child p {
+    color: #9D9D9D;
+}
+
+
+footer {
+    display: block;
+    background-color: black;
+    height: 400px;
+    width: 100%;
+    color: white;
+
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 200px;
+
+}
+
+.future {
+    margin-top: 80px;
+    width: 50%;
+}
+
+.future p {
+    margin-top: 20px;
+}
+
+.footer-icons {
+    list-style: none;
+    display: flex;
+    margin-top: 30px;
+    margin-left: -45px;
+
+}
+
+.footer-icons li {
+    margin-right: 20px;
+}
+
+.footer-icons li {
+    margin-top: 10px;
+}
+
+.subscribe {
+    margin-top: 80px;
+
+}
+
+.subscribe h2 {
+    margin: 20px auto;
+}
+
+#email {
+    margin-bottom: 12px;
+    border: 1px solid;
+    color: white;
+    border-color: white;
+    background-color: black;
+    border-radius: 10px;
+    padding: 16px;
+    width: 250px;
+}
+
+#submit {
+    background-color: white;
+    font-size: 24px;
+    color: #F15B22;
+    padding: 20px;
+    border: 1px solid;
+    border-color: white;
+    border-radius: 10px;
+    font-weight: 500;
+}
